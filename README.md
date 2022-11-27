@@ -26,6 +26,7 @@ marks]
 means you should compute 16 numbers e.g. UK mentions UK, UK mentions
 France, France mentions UK etc. Comment on any patterns you observe. [5
 marks]
+
 Part 3. Mapping
 1. Draw a map of Europe that displays the use of Twitter across the continent.
 Use only the GPS-tagged tweets, these are tweets which have a
@@ -38,6 +39,7 @@ CDF of the bounding box diagonals and comment. [5 marks]
 with the other dataset and discuss. Your secondary dataset doesn’t have to
 cover the entire bounding box e.g. it could be for a single city or nation. [10
 marks]
+
 Part 4. Events
 1. Identify 3 days with unusually high activity in 3 different countries of your
 choosing. For example you could choose one day in the UK, one in France
