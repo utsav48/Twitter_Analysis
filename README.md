@@ -1,4 +1,4 @@
-# Twitter_Analysis _IDS_Project_1
+# Twitter_Analysis _IDS_Project_
 
 Tasks
 Part 1. Basic Stats 
